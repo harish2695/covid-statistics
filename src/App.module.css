@@ -10,7 +10,7 @@ body {
 }
 .image {
   width: 370px;
-  margin-top: 50px;
+  margin-top: -257px;
 }
 @media (max-width: 770px) {
   .container {
@@ -19,4 +19,12 @@ body {
   .image {
     width: 100%;
   }
+}
+.switch {
+  margin-bottom: 30px;
+}
+.theme {
+  width: 290px;
+  margin-right: 70%;
+  margin-top: 33px;
 }
